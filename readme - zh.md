@@ -1,13 +1,13 @@
 # svpng v0.1.1
 
-A minimalistic C function for saving RGB/RGBA image into uncompressed PNG.
 一个把RGB/RGBA图片保存为PNG格式的简单C函数
-Copyright (C) 2017 Milo Yip. All rights reserved.
+
+Copyright (C) 2017 Milo Yip. 版权所有.
 
 
 # 特点
 * RGB/RGBA颜色格式
-* 函数简单
+* 函数使用简单
 * 仅仅32行 ANSI C 代码
 * 没有多余依赖
 * 可自定义输出流 (默认为C文件描述符)
